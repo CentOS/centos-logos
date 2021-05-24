@@ -1,0 +1,27 @@
+<background>
+  <starttime>
+    <year>2012</year>
+    <month>06</month>
+    <day>4</day>
+    <hour>7</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+<static>
+<duration>10000000000.0</duration>
+<file>
+  <size width="1080" height="2560">/usr/share/backgrounds/centos-default-1-1080x2560.jpg</size>
+  <size width="1440" height="1800">/usr/share/backgrounds/centos-default-1-1440x1800.jpg</size>
+  <size width="1440" height="2560">/usr/share/backgrounds/centos-default-1-1440x2560.jpg</size>
+  <size width="1440" height="3440">/usr/share/backgrounds/centos-default-1-1440x3440.jpg</size>
+  <size width="1536" height="2048">/usr/share/backgrounds/centos-default-1-1536x2048.jpg</size>
+  <size width="1600" height="2560">/usr/share/backgrounds/centos-default-1-1600x2560.jpg</size>
+  <size width="1800" height="1440">/usr/share/backgrounds/centos-default-1-1800x1440.jpg</size>
+  <size width="2048" height="1536">/usr/share/backgrounds/centos-default-1-2048x1536.jpg</size>
+  <size width="2560" height="1080">/usr/share/backgrounds/centos-default-1-2560x1080.jpg</size>
+  <size width="2560" height="1440">/usr/share/backgrounds/centos-default-1-2560x1440.jpg</size>
+  <size width="2560" height="1600">/usr/share/backgrounds/centos-default-1-2560x1600.jpg</size>
+  <size width="3440" height="1440">/usr/share/backgrounds/centos-default-1-3440x1440.jpg</size>
+</file>
+</static>
+</background>

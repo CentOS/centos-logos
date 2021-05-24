@@ -1,0 +1,6 @@
+[org.gnome.desktop.screensaver]
+picture-uri='file:///usr/share/backgrounds/centos-default.xml'
+picture-options='scaled'
+primary-color='#000000000000'
+secondary-color='#000000000000'
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+        <name>CentOS Default</name>
+        <filename>/usr/share/backgrounds/centos-default-0.xml</filename>
+        <options>zoom</options>
+    </wallpaper>
+</wallpapers>
