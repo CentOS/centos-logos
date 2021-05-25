@@ -6,4 +6,14 @@
         <filename>/usr/share/backgrounds/centos-default-0.xml</filename>
         <options>zoom</options>
     </wallpaper>
+    <wallpaper deleted="false">
+        <name>CentOS Default</name>
+        <filename>/usr/share/backgrounds/centos-default-1.xml</filename>
+        <options>zoom</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>CentOS Default</name>
+        <filename>/usr/share/backgrounds/centos-default-2.xml</filename>
+        <options>zoom</options>
+    </wallpaper>
 </wallpapers>
