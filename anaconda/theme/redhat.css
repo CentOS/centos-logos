@@ -1,7 +1,7 @@
 /* Anaconda gtk style overrides for RHEL */
 
 /* vendor-specific colors */
-@define-color centos #0c132f;
+@define-color centos #020008;
 
 /* logo and sidebar classes */
 
@@ -13,6 +13,8 @@
     background-image: url('/usr/share/anaconda/pixmaps/sidebar-bg.png');
     background-color: @centos;
     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top left;
 }
 
 /* Add a logo to the sidebar */
@@ -33,5 +35,7 @@ AnacondaSpokeWindow #nav-box {
     background-color: @centos;
     background-image: url('/usr/share/anaconda/pixmaps/topbar-bg.png');
     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top left;
     color: white;
 }
