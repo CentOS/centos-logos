@@ -1,5 +1,5 @@
 [org.gnome.desktop.background]
 picture-uri='file:///usr/share/backgrounds/centos.xml'
-picture-options='scaled'
+picture-options='zoom'
 primary-color='#000000000000'
 secondary-color='#000000000000'
