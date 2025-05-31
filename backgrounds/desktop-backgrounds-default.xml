@@ -15,4 +15,20 @@
         <filename>/usr/share/backgrounds/centos.xml</filename>
         <options>zoom</options>
     </wallpaper>
+    <wallpaper deleted="false">
+        <name>CentOS Background Day</name>
+        <filename>/usr/share/backgrounds/centos-day.png</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#a14f8c</pcolor>
+        <scolor>#200735</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>CentOS Background Night</name>
+        <filename>/usr/share/backgrounds/centos-night.png</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#a14f8c</pcolor>
+        <scolor>#200735</scolor>
+    </wallpaper>
 </wallpapers>
