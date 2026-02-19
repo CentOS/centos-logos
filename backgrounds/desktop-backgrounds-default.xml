@@ -3,12 +3,12 @@
 <wallpapers>
     <wallpaper deleted="false">
         <name>CentOS Default</name>
-        <filename>/usr/share/backgrounds/centos-background-p-3440x3440.png</filename>
-        <filename-dark>/usr/share/backgrounds/centos-background-y-3440x3440.png</filename-dark>
+        <filename>/usr/share/backgrounds/centos-background-p-4096x4096.png</filename>
+        <filename-dark>/usr/share/backgrounds/centos-background-o-4096x4096.png</filename-dark>
         <options>zoom</options>
         <shade_type>solid</shade_type>
         <pcolor>#a14f8c</pcolor>
-        <scolor>#200735</scolor>
+        <scolor>#22061b</scolor>
     </wallpaper>
     <wallpaper deleted="false">
         <name>CentOS Default Time of Day</name>
@@ -17,34 +17,34 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>CentOS Background Purple</name>
-        <filename>/usr/share/backgrounds/centos-background-p-3440x3440.png</filename>
+        <filename>/usr/share/backgrounds/centos-background-p-4096x4096.png</filename>
         <options>zoom</options>
         <shade_type>solid</shade_type>
         <pcolor>#a14f8c</pcolor>
-        <scolor>#200735</scolor>
+        <scolor>#22061b</scolor>
     </wallpaper>
     <wallpaper deleted="false">
         <name>CentOS Background Blue</name>
-        <filename>/usr/share/backgrounds/centos-background-b-3440x3440.png</filename>
+        <filename>/usr/share/backgrounds/centos-background-b-4096x4096.png</filename>
         <options>zoom</options>
         <shade_type>solid</shade_type>
-        <pcolor>#a14f8c</pcolor>
-        <scolor>#200735</scolor>
+        <pcolor>#262577</pcolor>
+        <scolor>#000029</scolor>
     </wallpaper>
     <wallpaper deleted="false">
         <name>CentOS Background Green</name>
-        <filename>/usr/share/backgrounds/centos-background-g-3440x3440.png</filename>
+        <filename>/usr/share/backgrounds/centos-background-g-4096x4096.png</filename>
         <options>zoom</options>
         <shade_type>solid</shade_type>
-        <pcolor>#a14f8c</pcolor>
-        <scolor>#200735</scolor>
+        <pcolor>#9ccd2a</pcolor>
+        <scolor>#1d2900</scolor>
     </wallpaper>
     <wallpaper deleted="false">
-        <name>CentOS Background Yellow</name>
-        <filename>/usr/share/backgrounds/centos-background-y-3440x3440.png</filename>
+        <name>CentOS Background Orange</name>
+        <filename>/usr/share/backgrounds/centos-background-o-4096x4096.png</filename>
         <options>zoom</options>
         <shade_type>solid</shade_type>
-        <pcolor>#a14f8c</pcolor>
-        <scolor>#200735</scolor>
+        <pcolor>#efa724</pcolor>
+        <scolor>#291a00</scolor>
     </wallpaper>
 </wallpapers>
