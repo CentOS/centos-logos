@@ -1,5 +1,6 @@
 [org.gnome.desktop.background]
-picture-uri='file:///usr/share/backgrounds/centos.xml'
+picture-uri='file:///usr/share/backgrounds/centos-day.png'
+picture-uri-dark='file:///usr/share/backgrounds/centos-night.png'
 picture-options='zoom'
 primary-color='#000000000000'
 secondary-color='#000000000000'
